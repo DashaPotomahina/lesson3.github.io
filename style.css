@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+color: black;
+background-color: blanchedalmond;    
+}
+td{
+    border: black 2px solid;
+}
+table{
+    width: 100%;
+    height: 500px;
+    border: 2px solid black;
+}
